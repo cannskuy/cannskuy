@@ -96,7 +96,7 @@ Jika Anda ingin menghubungi saya tentang apa pun, baik itu keraguan atau berbica
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a href="https://github.com/maspion27/can-readme"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
