@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years, eyyo gais welcome to my github
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -20,9 +20,9 @@
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Gaming 
 - ✨ Watching Anime
-- ✨ Reading Light Novels
+- ✨ Fishing
 - ✨ Badminton (Neighbourhood Professional XD)
 
 </br>
@@ -67,7 +67,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:maspion792@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
