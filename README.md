@@ -13,13 +13,12 @@
 
 ### - I'm 20 years, eyyo gais welcome to my github
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Hobbies : 
 - 🎮 Gaming 
 - 📺 Watching Anime
 - 🎣 Fishing
-- 🏸 Badminton (Neighbourhood Professional XD)
+- 🏸 Badminton
 
 </br>
 </br>
@@ -45,10 +44,6 @@
 # Contact Me :
 
 <p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
 Jika Anda ingin menghubungi saya tentang apa pun, baik itu keraguan atau berbicara atau ingin bermain bersama, cukup hubungi saya lewat email .
