@@ -5,13 +5,12 @@
 </div>
 
 </br>
-</br>
-</br>
 
 
 # About ME 💬 :
 
 ### - I'm 20 years, eyyo gais welcome to my github
+
 
 
 ### - Hobbies : 
@@ -20,9 +19,6 @@
 - 🎣 Fishing
 - 🏸 Badminton
 
-</br>
-</br>
-</br>
 
 
 
@@ -35,8 +31,6 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 </p>
-</br>
-</br>
 </br>
 
 
@@ -54,10 +48,6 @@ Jika Anda ingin menghubungi saya tentang apa pun, baik itu keraguan atau berbica
  </p>
  
 
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
