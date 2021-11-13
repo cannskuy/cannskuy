@@ -55,8 +55,8 @@ Jika Anda ingin menghubungi saya tentang apa pun, baik itu keraguan atau berbica
 
 
 <p align="center" >  
-  <a href="https://github.com/maspion27/can-readme"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=maspion27&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/cannskuy/can-readme"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=cannskuy&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
