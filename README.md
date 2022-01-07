@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years, eyyo gais welcome to my github
+ - Hello i'm a beginner who want to learn about programmer 🇮🇩
 
 
 
