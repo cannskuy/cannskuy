@@ -35,16 +35,14 @@
 
 
 
-# Contact Me :
+# Next Profil About Me :
 
 <p>
 
 
-Jika Anda ingin menghubungi saya tentang apa pun, baik itu keraguan atau berbicara atau ingin bermain bersama, cukup hubungi saya lewat email .
 
-<a href="mailto:maspion792@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cannkrnwn)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thatscan)
  </p>
  
 
